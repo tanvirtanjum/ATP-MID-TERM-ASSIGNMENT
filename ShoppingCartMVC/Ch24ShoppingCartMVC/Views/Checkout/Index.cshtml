@@ -1,0 +1,63 @@
+﻿@model Ch24ShoppingCartMVC.Models.ViewModels.CheckoutViewModel
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+@if (Model.Cart.Count == 0)
+{
+    <p>There is nothing to check out</p>
+}
+else
+{
+    <table style="width:100%">
+        <tr>
+            <th>Ordered Item</th>
+            <th>Quantitiy of Item</th>
+            <th>Unit Price of Item</th>
+            <th>Total Price of Item</th>
+        </tr>
+
+        @foreach (var item in Model.Cart)
+        {
+            <tr>
+                <td style="text-align: center">@item.Name</td>
+                <td style="text-align: center">@item.Quantity</td>
+                <td style="text-align: center">@item.UnitPrice</td>
+                <td style="text-align: center">$@(item.UnitPrice * item.Quantity)</td>
+            </tr>
+        }
+    </table>
+    <p style="text-align: right">Total Price Before Tax: $@Model.Total</p>
+    <p style="text-align: right">Total Price After Tax: $@(Model.Total *(1+Model.TaxRate))</p>
+    <br />
+    <input type="submit" value="Visa" style="float: right">
+    <input type="submit" value="Paypal" style="float: right">
+    <input type="submit" value="Mastercard" style="float: right">
+    <form>
+        <div id="shippingInfo">
+            <table>
+                <tr>
+                    <td><label for="StreetAddress">Street Address </label></td>
+                    <td><input type="text" name="StreetAddress" /></td>
+                </tr>
+                <tr>
+                    <td><label for="City">City </label></td>
+                    <td><input type="text" name="City" /></td>
+                </tr>
+                <tr>
+                    <td><label for="State">State </label></td>
+                    <td><input type="text" name="State" /></td>
+                </tr>
+                <tr>
+                    <td><label for="Country">Country </label></td>
+                    <td><input type="text" name="Country" /></td>
+                </tr>
+                <tr>
+                    <td><label for="ZipCode">Zip Code </label></td>
+                    <td><input type="text" name="ZipCode" /></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+}
