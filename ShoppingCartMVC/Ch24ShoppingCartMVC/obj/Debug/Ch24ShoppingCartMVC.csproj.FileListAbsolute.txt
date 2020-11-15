@@ -34,3 +34,39 @@ W:\CODES\ASP.net Framework\ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\
 W:\CODES\ASP.net Framework\ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
 W:\CODES\ASP.net Framework\ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 W:\CODES\ASP.net Framework\ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.SqlServer.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Infrastructure.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\WebGrease.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\EntityFramework.SqlServer.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CoreCompileInputs.cache
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
+W:\CODES\ASP.net Framework\MID ASSIGNMENT\trunk\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
